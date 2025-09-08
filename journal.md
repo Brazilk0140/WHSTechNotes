@@ -1,3 +1,2 @@
-# September 3, 2025
-Today, I created my first GitHub account respository. I'm excited to start using GitHub for my projects!
-My thoughts on the cell phone law is I felt uncofortable when they did it. Because sometimes they do need it if it's an emergency or details for notes for assignments or tests. And they have to have discipline in order to be successful.
+# September 8, 2025
+Computer science offers value to any profession by enhancing efficiency and innovation through automation, data analysis, software development, and cybersecurity. It's skills in problem-solving, analytical thinking, and system design are transferable, allowing computer scientists to create new tools, improve existing processes, and ensure data security across various industries. This creates opportunities for career growth and allows professionals to adapt to a rapidly changing technological landscape.
