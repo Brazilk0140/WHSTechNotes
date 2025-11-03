@@ -10,3 +10,5 @@ Canva AI is best understood as suite of integrated tools, primarily known as Mag
 Hardeep is in seat 61F, Franklin is in seat 91A, and Maria is in seat 35B
 # October 27, 2025
 Technology helps before, during, and after a natural disaster through early warning systems, communication tools, and on the ground support like drones and robots. Examples include Al for forecasting, apps and radios for information and contact, generators and solar chargers for power, and drones or robots for search and rescue, damage assessment, and delivery.
+# November 3, 2025 
+(SNAP) is a majopr issue because it would leave millions of vulnerable Americans without a primary means to buy food, potentially leading to mass hunger and significant health problems.
