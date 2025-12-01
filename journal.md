@@ -1,6 +1,6 @@
 # September 22, 2025
 Working in a virtual store for real money has both promising potential and significant risks for the future of jobs. The emergence of immersive digital environments, often referred to as the metaverse, offers new opportunities for commerce and employment.
-# September 30, 2025 
+# September 30, 2025 a 
 The phrase 6,7 is most commonly a nonsensical, viral slang term orginating from a rap song and a basketball player's height, sometimes used to convey or undecided feeling. And it's sometimes accompanied by a hand gesture. Others use it as an interjection or simply because it sounds fun to say.
 # October 6, 2025
 I don't think Chromebooks, learning games, or phones should be blocked. Because people may need it for their education to use something that's important. 
@@ -14,3 +14,5 @@ Technology helps before, during, and after a natural disaster through early warn
 (SNAP) is a majopr issue because it would leave millions of vulnerable Americans without a primary means to buy food, potentially leading to mass hunger and significant health problems.
 # November 10, 2025
 I'm looking forawrd to spend more time with my family and more time with basketball during the break.
+# December 1, 2025
+Coding and software are essential for drones to fly and perform tasks by providing a brain that controls hardware like motors and sensors, allowing for functions  from basic flight to complex autonomous missions.
