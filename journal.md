@@ -16,3 +16,5 @@ Technology helps before, during, and after a natural disaster through early warn
 I'm looking forawrd to spend more time with my family and more time with basketball during the break.
 # December 1, 2025
 Coding and software are essential for drones to fly and perform tasks by providing a brain that controls hardware like motors and sensors, allowing for functions  from basic flight to complex autonomous missions.
+# December 8, 2025 
+AI might face bad weather, poor lightning, sensor fusion, complexity, object recognition in chaotic scenes, cybersecurity threats, data privacy, and the inherent difficulty in replicating nuanced human judgment for ethical dilemmas, all demanding robust AI training for reliable real-world performance.
