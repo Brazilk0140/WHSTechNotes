@@ -18,3 +18,5 @@ I'm looking forawrd to spend more time with my family and more time with basketb
 Coding and software are essential for drones to fly and perform tasks by providing a brain that controls hardware like motors and sensors, allowing for functions  from basic flight to complex autonomous missions.
 # December 8, 2025 
 AI might face bad weather, poor lightning, sensor fusion, complexity, object recognition in chaotic scenes, cybersecurity threats, data privacy, and the inherent difficulty in replicating nuanced human judgment for ethical dilemmas, all demanding robust AI training for reliable real-world performance.
+# December 15, 2025 
+For my plans for the winter break is that I wanna spend time more of my family and relax and the great thing is, my birthday is on christmas.
