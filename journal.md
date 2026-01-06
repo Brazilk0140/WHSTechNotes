@@ -20,3 +20,5 @@ Coding and software are essential for drones to fly and perform tasks by providi
 AI might face bad weather, poor lightning, sensor fusion, complexity, object recognition in chaotic scenes, cybersecurity threats, data privacy, and the inherent difficulty in replicating nuanced human judgment for ethical dilemmas, all demanding robust AI training for reliable real-world performance.
 # December 15, 2025 
 For my plans for the winter break is that I wanna spend time more of my family and relax and the great thing is, my birthday is on christmas.
+# January 6, 2026
+Technology means to apply scientific knowledge to create tools, systems, or methods to solve problems, achieve goals, or make tasks easier, encompassing devices like phones, computers, and intangible processes like software, algorithms, or even methods like citing sources to perform functions more efficiently, scale actions, amd manage information.
