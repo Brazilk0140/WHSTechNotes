@@ -22,3 +22,5 @@ AI might face bad weather, poor lightning, sensor fusion, complexity, object rec
 For my plans for the winter break is that I wanna spend time more of my family and relax and the great thing is, my birthday is on christmas.
 # January 6, 2026
 Technology means to apply scientific knowledge to create tools, systems, or methods to solve problems, achieve goals, or make tasks easier, encompassing devices like phones, computers, and intangible processes like software, algorithms, or even methods like citing sources to perform functions more efficiently, scale actions, amd manage information.
+# January 12, 2026 
+Autocraft was created to solve manufactuirng/repair problems. Autocraft provided advanced material handling & tooling for factories.
