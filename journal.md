@@ -26,3 +26,5 @@ Technology means to apply scientific knowledge to create tools, systems, or meth
 Autocraft was created to solve manufactuirng/repair problems. Autocraft provided advanced material handling & tooling for factories. Autocraft Solutions Group addresses EV battery lifespan/sustainability by re-manufacturing faulty batteries to prevent waste and improve performance, while Autocraft created layout automation for complex custom circuits in advanced chip design, solving the difficulty of manual layout
 # January 20, 2026 
 Technology significantly shapes learning, communication, and self-expression by offering new tools for access, collaboration, and practice, and it also presents challenges like potential social skill deficits from excessive screen time, requiring balanced usage for positive development in language and social skills.
+# January 29, 2026
+I took Math and English for TSI, I felt ok about my performance, it was stressful but it's alright. What went well is that in the math section, I can use the calculator. And what felt challenging is at the english section, I would have look the whole passage and paragraph.
