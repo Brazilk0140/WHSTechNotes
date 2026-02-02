@@ -28,3 +28,9 @@ Autocraft was created to solve manufactuirng/repair problems. Autocraft provided
 Technology significantly shapes learning, communication, and self-expression by offering new tools for access, collaboration, and practice, and it also presents challenges like potential social skill deficits from excessive screen time, requiring balanced usage for positive development in language and social skills.
 # January 29, 2026
 I took Math and English for TSI, I felt ok about my performance, it was stressful but it's alright. What went well is that in the math section, I can use the calculator. And what felt challenging is at the english section, I would have look the whole passage and paragraph.
+# February 2, 2026 
+Personal hygiene and self-care is to prevent the spread of illnesses, reduce allergens, and foster respectful, healthy relationships.
+Loud conversations, strong smells, and disruptive behoviors is by overloading the brain's sensory processing, forcing it to expand mental energy on filtering, which causes stress, frustration, and reduced cognitive performance.
+Reasonable expectations for professional behavior in shared spaces focus on respecting shared resources, minimizing noise, and maintaining cleanliness.
+Self-regulation is crucial for school and career success because it enables goal setting, sustained focus, and stress management.
+One of the most effective habits to improve for respecting shared spaces is to immediately clean and sanitize any communal area or equipment after use.
