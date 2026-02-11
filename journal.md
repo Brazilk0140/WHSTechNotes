@@ -34,3 +34,5 @@ Loud conversations, strong smells, and disruptive behoviors is by overloading th
 Reasonable expectations for professional behavior in shared spaces focus on respecting shared resources, minimizing noise, and maintaining cleanliness.
 Self-regulation is crucial for school and career success because it enables goal setting, sustained focus, and stress management.
 One of the most effective habits to improve for respecting shared spaces is to immediately clean and sanitize any communal area or equipment after use.
+# February 10, 2026
+I watched half of the Super Bowl LX, because the Seahawks defense are better than the Patriots defense.
