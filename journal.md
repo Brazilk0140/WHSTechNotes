@@ -40,3 +40,6 @@ I watched half of the Super Bowl LX, because the Seahawks defense are better tha
 Artificial Intelligence (AI) and cloud based technologies had the biggest, most transformative impact on the 2026 winter olympics.
 AI driven analytics, wearable sensors, and advanced materials, including AR goggles with real time speed/GPS for talking, 3D motion tracking for snowboarding, smart blades for skating, and multi-camera systems for hockey to analyze player, speed, and energy data.
 And it can improve for wearing a jacket uniform to keep yourself warm.
+# March 2, 2026
+I would prefer Information Security Analyst, because it plans to carry out security measures to protect an organization's computer networks and systems. And they work for computer companies, consulting firms, and business and financial companies.
+A cybersecurity analysts work to defend their organization and it's data from cyberthreats. And it protects company hardware, software, and networks from cybercriminals.
