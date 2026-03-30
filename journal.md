@@ -46,3 +46,5 @@ A cybersecurity analysts work to defend their organization and it's data from cy
 # March 23, 2026
 I choose my bracket because I going for duke men's and women's basketball, because they are one of the best teams in the nation. 
 The results from the weekend is that Duke men's basketball beat TCU. And Duke women's basketball beat Baylor. 
+# March 30, 2026
+I'm surprised and shock that Duke is eliminated, because they couldn't play their defense and they got beat by 1 point against Uconn.
