@@ -48,3 +48,5 @@ I choose my bracket because I going for duke men's and women's basketball, becau
 The results from the weekend is that Duke men's basketball beat TCU. And Duke women's basketball beat Baylor. 
 # March 30, 2026
 I'm surprised and shock that Duke is eliminated, because they couldn't play their defense and they got beat by 1 point against Uconn.
+# April 9, 2026
+AI often involves using social engineering, role-playing, and psychological tactics to exploit the AI's training and goal-oriented nature.
