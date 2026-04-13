@@ -50,3 +50,6 @@ The results from the weekend is that Duke men's basketball beat TCU. And Duke wo
 I'm surprised and shock that Duke is eliminated, because they couldn't play their defense and they got beat by 1 point against Uconn.
 # April 9, 2026
 AI often involves using social engineering, role-playing, and psychological tactics to exploit the AI's training and goal-oriented nature.
+# April 13, 2026
+Technology has been a cornerstone of success across diverse types of missions, from space exploration and national security to charitable work and religious missions.
+The Apollo 13 oxygen tank failure forced NASA to completely redesign electrical systems and and cryogenics, making the subsequent moon landings significantly safer. Difficulty is the mother of invention. When the Hubble Space Telescope launched with a blurry mirror, the challenge led to the development of  corrective optics, a technology that later revolutionized LASIK eye surgery and high-res imaging.
