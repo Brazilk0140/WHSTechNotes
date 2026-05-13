@@ -59,3 +59,5 @@ It's a free week this week.
 For the 2026 NBA Playoffs, technology has shifted from a background tool to a central driver of game strategy, officiating precision, and immersive fan expereiences. The integration of advanced AI models like NBA Inside the Game, powered by Amazon Web Services (AWS), has fundamentally altered how postseason matchups are analyzed and viewed.
 # May 6, 2026
 Al systems are fueled by a vast array of daily digital actions, which are gathered, processed, and used to train models to recgonize patterns, make predictions, and generate content. Those actions include public, user-generated, and enterprise level activities, often processed through AI data pipelines to make them unsable.
+# May 11, 2026
+Throught this year it's been handling stress to a lot of hard work that I've been doing but I've gone through it. It build time management, emotional maturity, decision making, friendships, communication, and confidence.
